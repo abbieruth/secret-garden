@@ -1,0 +1,36 @@
+body {
+  background-image: url('../media/GardenGate2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.text {
+  text-align: center;
+  margin-top: 130px;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 20px;
+  background-color: #F2E6C2;
+  color: #4C592F;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+.nav {
+  margin-left: 32%;
+}
+
+.nav, a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #BFA288;
+  padding: 10px;
+}
+
+.nav, a:hover {
+  text-decoration: underline;
+  color: #735D43;
+}

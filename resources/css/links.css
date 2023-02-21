@@ -1,0 +1,33 @@
+body {
+  background-image: url('../media/ForestPathSpring.jpg');
+  background-size: 80% auto;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: #F2CD5C;
+}
+
+.container {
+  text-align: center;
+  top: 0;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 20px;
+  background-color: #693415;
+  color: #9982C7;
+}
+
+.nav {
+  margin-left: 32%;
+}
+
+.nav, a {
+  font-size: 20px;
+  text-decoration: none;
+  color: cadetblue;
+  padding: 10px;
+}
+
+.nav, a:hover {
+  text-decoration: underline;
+  color: blueviolet;
+}

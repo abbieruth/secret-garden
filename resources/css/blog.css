@@ -1,0 +1,45 @@
+body {
+  background-image: url('../media/RoseGarden1.jpg');
+  background-repeat: no-repeat;
+  background-size: 80% auto;
+  background-position: top;
+  background-color: #A65369;
+}
+
+.container {
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 20px;
+  background-color: #5C4B39;
+  color: #e4d1bb;
+}
+
+.nav {
+  margin-left: 32%;
+}
+
+.nav, a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #D4D943;
+  padding: 10px;
+}
+
+.nav, a:hover {
+  text-decoration: underline;
+  color: #BF5A7F;
+}
+
+ul {
+  list-style: none;
+}
+
+ul > li > a {
+  color: #BF5A7F;
+}
+
+ul > li > a:hover {
+  color: #9b9f37;
+}

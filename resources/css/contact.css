@@ -1,0 +1,32 @@
+body {
+  background-image: url("../media/Tulips.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.text {
+  text-align: center;
+  margin-top: 130px;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 20px;
+  background-color: #d9a19c;
+  color: #467302;
+}
+
+.nav {
+  margin-left: 32%;
+}
+
+.nav, a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #D4D943;
+  padding: 10px;
+}
+
+.nav, a:hover {
+  text-decoration: underline;
+  color: #BF5A7F;
+}
